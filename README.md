@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjul</h1>
+<h1 align="center">Hi 👋, I'm Pranjul Dhiman</h1>
 <h3 align="center">I'm a Mobile Software Engineer with 7+ years of experience building high-quality Android and Flutter applications. I enjoy creating scalable, user-friendly mobile experiences with clean architecture and modern development practices.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjulflows" alt="pranjulflows" /></a> </p>
