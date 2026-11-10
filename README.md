@@ -1,26 +1,324 @@
-<h1 align="center">Hi 👋, I'm Pranjul Dhiman</h1>
-<h3 align="center">I'm a Mobile Software Engineer with 7+ years of experience building high-quality Android and Flutter applications. I enjoy creating scalable, user-friendly mobile experiences with clean architecture and modern development practices.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjulflows" alt="pranjulflows" /></a> </p>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Pranjul%20Dhiman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Software%20Engineer%20%7C%20AI%20on%20Device%20%7C%20Clean%20Architecture&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
-- 👨‍💻 All of my projects are available at [http://pranjul.dev](http://pranjul.dev)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+cross-platform+mobile+products+for+7%2B+years;Android+Native+%E2%80%A2+Flutter+%E2%80%A2+Kotlin+Multiplatform;On-Device+AI+%E2%80%A2+TensorFlow+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Architecture+is+the+product%2C+not+the+detail" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **pranjul.dhiman@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I play a lot of indie games**
+<!-- Quick Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER_USERNAME)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_BLOG_URL)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pranjulflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjulflows" height="30" width="40" /></a>
-<a href="https://instagram.com/pranjulflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjulflows" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pranjulflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranjulflows" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=pranjulflows&color=6366f1&style=flat-square&label=Profile+Views)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjulflows&show_icons=true&locale=en&layout=compact" alt="pranjulflows" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjulflows&show_icons=true&locale=en" alt="pranjulflows" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjulflows&" alt="pranjulflows" /></p>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   BENTO GRID                       -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+
+<!-- ─── Left Column: About ─── -->
+<td width="50%" valign="top">
+
+### 🎯 About Me
+
+```yaml
+name: Pranjul Dhiman
+role: Mobile Software Engineer
+experience: 7+ years
+location: India 🇮🇳
+focus: Cross-Platform Mobile · On-Device AI
+
+currently_building:
+  - Drinkopedia (Flutter, Clean Arch)
+  - Compose Multiplatform Player
+
+philosophy: >
+  Dependencies point inward.
+  Entities are immutable.
+  The architecture is the product.
+```
+
+</td>
+
+<!-- ─── Right Column: What I Bring ─── -->
+<td width="50%" valign="top">
+
+### ⚡ What I Bring to the Table
+
+- 🏗️ **Clean Architecture** — domain → data → presentation, SOLID to the bone
+- 📱 **Cross-Platform Mastery** — Android Native, Flutter, Kotlin Multiplatform
+- 🤖 **AI/ML on Device** — TensorFlow Lite, on-device inference, RAG pipelines
+- 🔧 **Full Product Builder** — from Figma to CI/CD to Play Store release
+- 🧪 **Testing Culture** — TDD, widget tests, integration tests
+- 🎨 **UI Craft** — Material 3, hero transitions, motion tokens, shimmer states
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  TECH STACK                        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**📱 Mobile**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,swift&perline=5" alt="Mobile" />
+
+`Jetpack Compose` · `KMP`
+`Retrofit` · `Drift` · `Hilt`
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,py&perline=3" alt="AI/ML" />
+
+`TensorFlow Lite` · `On-Device AI`
+`RAG` · `Agentic AI` · `LLMs`
+`ML Kit` · `Edge Inference`
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,gcp,docker,vscode&perline=6" alt="Tools" />
+
+`CI/CD` · `GitHub Actions`
+`Fastlane` · `Play Console`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              ARCHITECTURE CARD                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏗️ Architecture Philosophy
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```
+┌────────────────────────────────────────────┐
+│              PRESENTATION                  │
+│    Providers · Screens · Widgets           │
+│         ChangeNotifier + Sealed State      │
+├──────────────────┬─────────────────────────┤
+│                  │                         │
+│                  ▼                         │
+│              DOMAIN                        │
+│    Entities · Use Cases · Repo Interfaces  │
+│         Pure Dart — No Framework Imports   │
+│                  ▲                         │
+│                  │                         │
+├──────────────────┴─────────────────────────┤
+│                DATA                        │
+│    DTOs · Retrofit APIs · Drift DAOs       │
+│         Repository Implementations         │
+└────────────────────────────────────────────┘
+
+        Dependencies point inward only
+           presentation → domain ← data
+```
+
+</td>
+<td width="40%" valign="top">
+
+### Principles I Ship By
+
+| Principle | In Practice |
+|---|---|
+| 🧱 **SOLID** | New data source = new impl, never editing old |
+| 🧅 **Clean Layers** | Domain never sees Dio, drift, or Flutter |
+| 🔒 **Immutable Entities** | `Equatable` + no setters |
+| 🛣️ **Typed Routes** | Every route resolves from path alone |
+| 🎭 **Graceful Degradation** | Null fields degrade, never blank |
+| 🤖 **AI-Ready** | On-device inference behind clean interfaces |
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              FEATURED PROJECTS                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🍸 Drinkopedia
+> A reference database for spirits — their origin stories, how they're made, and where they came from.
+
+**Stack:** Flutter · Dart · Clean Architecture · Retrofit · Drift · Material 3
+
+**Highlights:**
+- 3-layer clean architecture per feature
+- Retrofit networking with typed responses
+- Drift local cache hydrated from curated seed list
+- Hero transitions, collapsing app bars, shimmer skeletons
+- Light & dark theme with Rota font family
+- CI/CD pipeline with GitHub Actions
+
+[![Repo](https://img.shields.io/badge/View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjulflows/drinkopedia-clean)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 ComposePlayer CMP
+> Cross-platform media player built with Compose Multiplatform.
+
+**Stack:** Kotlin · Compose Multiplatform · KMP
+
+**Highlights:**
+- Single codebase, multiple platforms
+- Compose UI with shared business logic
+- Kotlin-first architecture
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjulflows/composeplayer_CMP)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               GITHUB STATS                        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranjulflows&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1" height="170" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjulflows&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="170" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=pranjulflows&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjulflows&bg_color=0d1117&color=6366f1&line=8b5cf6&point=06b6d4&area=true&area_color=6366f1&hide_border=true" width="95%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              CURRENTLY BUILDING                    -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🗺️ What I'm Working On
+
+</div>
+
+| Status | Project | Description |
+|:---:|---|---|
+| 🟢 | **Drinkopedia v2** | Adding on-device AI for spirit recommendations & smart search |
+| 🟡 | **RAG Pipeline** | Building retrieval-augmented generation for mobile knowledge bases |
+| 🔵 | **Open Source Contributions** | Giving back to Flutter & KMP ecosystem |
+| 🟣 | **AI + Mobile Series** | Writing about practical on-device AI patterns |
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               LATEST WRITING                      -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ✍️ Latest Writing
+
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+- 📝 [Clean Architecture in Flutter — A Practical Guide](#)
+- 🤖 [Running TensorFlow Lite on Android: From Model to Production](#)
+- 🏗️ [Why Your Mobile App Needs a Domain Layer](#)
+- 🔄 [Retrofit + Drift: Offline-First Architecture in Flutter](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               CONNECT WITH ME                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🤝 Let's Build Something Together
+
+<br/>
+
+I'm always open to collaborating on **mobile products**, **open-source tools**, and **AI-powered mobile experiences**.
+
+If you're working on something interesting — or want to build something from scratch — let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjuldhiman)
+[![Twitter](https://img.shields.io/badge/Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pranjulflows)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjulflows@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer" width="100%" />
+
+</div>
